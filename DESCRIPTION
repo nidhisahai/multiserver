@@ -1,0 +1,19 @@
+Package: multiserver
+Title: Calculating Service Times For Customers At A Bank
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nidhi",
+           family = "Sahai",
+           role = c("aut", "cre"),
+           email = "nidhi.sahai@students.mq.edu.au")
+Description: This package will outline which server is available the quickest for a certain customer. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
